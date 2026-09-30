@@ -1,4 +1,4 @@
-# Hello GUI — Go + Fyne + CI/CD
+<img width="1914" height="909" alt="Снимок экрана 2026-09-30 132002" src="https://github.com/user-attachments/assets/fa14e0a8-937b-4757-8218-194e4ff46f6a" /># Hello GUI — Go + Fyne + CI/CD
 
 Учебный проект: GUI-приложение на **Go** с библиотекой **Fyne**, автоматически собирается под **Linux, macOS, Windows** через **GitHub Actions** и публикуется в **GitHub Releases** при push тега `v*`.
 
@@ -8,19 +8,21 @@
 
 ### 1. Работающее приложение
 
-![GUI](https://github.com/user-attachments/assets/PLACEHOLDER-1)
+<img width="1914" height="909" alt="Снимок экрана 2026-09-30 132002" src="https://github.com/user-attachments/assets/db34971a-95fc-4f16-922f-e8b1805ef3ca" />
+
+
 
 *Окно Hello GUI v0.1.0 — кнопки «Поздороваться» и «Выход», версия подтянулась из git-тега, сумма 1..10 = 55*
 
 ### 2. GitHub Actions — CI/CD успешно прошёл
 
-![Actions](https://github.com/user-attachments/assets/PLACEHOLDER-2)
+<img width="1772" height="744" alt="Снимок экрана 2026-09-30 131820" src="https://github.com/user-attachments/assets/28def913-5608-4dab-96f9-703646400bd0" />
 
-*Job `test` (3m 22s) и job `release` (7m 24s) — оба зелёные*
 
 ### 3. GitHub Release v0.1.0 — 3 бинарника
 
-![Release](https://github.com/user-attachments/assets/PLACEHOLDER-3)
+<img width="1482" height="939" alt="Снимок экрана 2026-09-30 131828" src="https://github.com/user-attachments/assets/b84f5062-b8a1-4e61-83e6-470f648f5e32" />
+
 
 *Автоматически создан релиз с артефактами под Linux, macOS и Windows*
 
