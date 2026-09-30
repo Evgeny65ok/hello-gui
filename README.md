@@ -1,4 +1,3 @@
-<img width="1914" height="909" alt="Снимок экрана 2026-09-30 132002" src="https://github.com/user-attachments/assets/fa14e0a8-937b-4757-8218-194e4ff46f6a" /># Hello GUI — Go + Fyne + CI/CD
 
 Учебный проект: GUI-приложение на **Go** с библиотекой **Fyne**, автоматически собирается под **Linux, macOS, Windows** через **GitHub Actions** и публикуется в **GitHub Releases** при push тега `v*`.
 
